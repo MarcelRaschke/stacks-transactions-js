@@ -81,7 +81,7 @@
     "c32check": "^1.1.1",
     "cross-fetch": "^3.0.5",
     "elliptic": "^6.5.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "randombytes": "^2.1.0",
     "ripemd160-min": "^0.0.6",
     "sha.js": "^2.4.11",
